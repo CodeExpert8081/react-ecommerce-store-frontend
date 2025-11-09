@@ -1,7 +1,6 @@
 # SHOP ALL ECOMMERCE APP
 ![image](https://user-images.githubusercontent.com/75886411/118426812-91854e80-b6e9-11eb-8831-5ec578c1509d.png)
 
-## Live Website - https://shop-all.netlify.app/
 ## About/Description 
 This app is a fully functional ecommerce app and users can view single product, increase/decrease the quantity of product and then move to checkout and pay using stripe or paypal whichever they want. After placing the order, the order can be viewed from the order history. Users can also edit the user info from the my account section in the app.
 
